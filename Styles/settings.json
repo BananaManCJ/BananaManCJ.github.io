@@ -1,0 +1,11 @@
+{
+    "name": "BananaManCJ",
+    "description": "Themes and tweaks for jailbroken iOS devices",
+    "tint": "ffe135",
+    "cname": "BananaManCJ.github.io",
+    "maintainer": {
+        "name": "Caleb Rose",
+        "email": "calebjrose@hotmail.com"
+    },
+    "automatic_git": "true"
+}

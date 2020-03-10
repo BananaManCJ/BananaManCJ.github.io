@@ -1,0 +1,12 @@
+Origin: BananaManCJ
+Label: BananaManCJ
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Themes and tweaks for jailbroken iOS devices
+
+SHA256:
+ e284ccf5667ec3e62122587ca40402052a06eb3150ac2ad9aea1c454362fe31a 807 Packages.bz2
+ 596b8b7073f3f74b9fe57f8ffe58d51d0f5676f05ec980620cecfb15957a56ca 740 Packages.xz
